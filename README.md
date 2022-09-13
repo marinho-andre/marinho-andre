@@ -1,6 +1,4 @@
-### 
-
-Hi there! My name is André.
+### Hi there! ✌️
 
 I'm a data professional based in Rio de Janeiro with 4+ years of experience spotting and exploring business opportunities from a consumer-centric perspective. I stand out for my multidisciplinary curiosity and the ability to translate business and client needs into well-structured analytical projects.
 
