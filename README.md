@@ -1,16 +1,18 @@
-### Hi there 👋
+### About me
 
-<!--
-**marinho-andre/marinho-andre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! My name is André.
 
-Here are some ideas to get you started:
+I'm a data professional based in Rio de Janeiro with 4+ years of experience spotting and exploring business opportunities from a consumer-centric perspective. I stand out for my multidisciplinary curiosity and the ability to translate business and client needs into well-structured analytical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main expertise and interests lie on topics such as segmentation studies, resource allocation, market research and the development of predictive models to support decision-making in the domain of marketing.
+
+##
+
+### Development Skills
+
+**Python** (Pandas, Numpy, Matplotlib, Seaborn, Sklearn) **| Jupyter | SQL | Google Cloud Platform | Docker | Heroku | Streamlit**
+
+
+##
+
+📫 You can reach me at: marinho_andre@outlook.com
