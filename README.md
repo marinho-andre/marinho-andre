@@ -1,4 +1,4 @@
-### About me
+### 
 
 Hi there! My name is André.
 
